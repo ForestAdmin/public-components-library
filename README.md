@@ -1,2 +1,2 @@
-# public-smart-components
-A list of Smart Components usable in your workspaces
+# public-components-library
+A list of Custom Components usable in your workspaces
